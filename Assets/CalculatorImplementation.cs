@@ -6,4 +6,9 @@ public class CalculatorImplementation : BaseCalculatorOperations
     {
         return a + b;
     }
+
+    public override float? Multiply(float a, float b)
+    {
+        return a * b;
+    }
 }
