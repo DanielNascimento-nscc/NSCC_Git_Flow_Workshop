@@ -16,7 +16,7 @@ public class App : MonoBehaviour
             { "modulus", "%" }
     };
     
-    void Awake()
+    void Start()
     {
         uiDocument = GetComponent<UIDocument>();
         menuCreator = GetComponent<MenuCreator>();

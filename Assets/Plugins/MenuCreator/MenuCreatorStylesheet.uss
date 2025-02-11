@@ -72,7 +72,7 @@
     border-right-color: rgb(82, 107, 133);
     border-left-color: rgb(82, 107, 133);
     border-bottom-width: 3px;
-    -unity-font-definition: none;
+    -unity-font: url('project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=e2154ee0cc0dc604a8113d9dc6a5c230&type=3#NotInter-Regular');
     padding-left: 50px;
     padding-right: 50px;
     padding-top: 15px;
@@ -96,7 +96,7 @@
     font-size: 12px;
     min-height: 25px;
     max-height: 25px;
-    -unity-font-definition: none;
+    -unity-font: url('project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=e2154ee0cc0dc604a8113d9dc6a5c230&type=3#NotInter-Regular');
 }
 
 .unity-base-slider__tracker {
@@ -123,7 +123,7 @@
 
 .unity-base-slider__label {
     font-size: 10px;
-    -unity-font-definition: none;
+    -unity-font: url('project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=e2154ee0cc0dc604a8113d9dc6a5c230&type=3#NotInter-Regular');
     color: rgb(163, 170, 198);
 }
 
@@ -186,7 +186,7 @@
 
 .unity-toggle__label {
     font-size: 10px;
-    -unity-font-definition: none;
+    -unity-font: url('project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=e2154ee0cc0dc604a8113d9dc6a5c230&type=3#NotInter-Regular');
     align-self: center;
     justify-content: center;
     color: rgb(127, 149, 183);
@@ -198,7 +198,7 @@
 .unity-float-field__label {
     min-width: auto;
     font-size: 10px;
-    -unity-font-definition: none;
+    -unity-font: url('project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=e2154ee0cc0dc604a8113d9dc6a5c230&type=3#NotInter-Regular');
     color: rgb(127, 149, 183);
     flex-grow: 1;
     align-self: center;
@@ -207,7 +207,7 @@
 
 .unity-vector3-field__label {
     font-size: 10px;
-    -unity-font-definition: none;
+    -unity-font: url('project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=e2154ee0cc0dc604a8113d9dc6a5c230&type=3#NotInter-Regular');
     color: rgb(163, 170, 198);
     flex-grow: 1;
     min-width: auto;
@@ -219,7 +219,7 @@
 .unity-min-max-slider__label {
     color: rgb(163, 170, 198);
     font-size: 10px;
-    -unity-font-definition: none;
+    -unity-font: url('project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=e2154ee0cc0dc604a8113d9dc6a5c230&type=3#NotInter-Regular');
     min-width: auto;
     align-self: center;
     justify-content: center;
@@ -253,7 +253,7 @@
     border-width: 0;
     border-radius: 5px;
     color: rgb(67, 83, 108);
-    -unity-font-definition: none;
+    -unity-font: url('project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=e2154ee0cc0dc604a8113d9dc6a5c230&type=3#NotInter-Regular');
 }
 
 .unity-foldout__input {
@@ -263,7 +263,7 @@
 .unity-foldout__text {
     color: rgb(120, 124, 144);
     font-size: 16px;
-    -unity-font-definition: none;
+    -unity-font: url('project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=e2154ee0cc0dc604a8113d9dc6a5c230&type=3#NotInter-Regular');
     min-width: auto;
     align-self: left;
 }
@@ -290,7 +290,7 @@
     border-right-width: 0;
     border-radius: 10px;
     border-bottom-width: 2px;
-    -unity-font-definition: none;
+    -unity-font: url('project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=e2154ee0cc0dc604a8113d9dc6a5c230&type=3#NotInter-Regular');
 }
 
 .BlueprintSelectorWindow {
@@ -324,7 +324,7 @@
     font-size: 14px;
     border-width: 0;
     border-radius: 16px;
-    -unity-font-definition: none;
+    -unity-font: url('project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=e2154ee0cc0dc604a8113d9dc6a5c230&type=3#NotInter-Regular');
     min-width: auto;
     position: absolute;
     align-self: flex-end;
@@ -354,7 +354,7 @@
     border-right-color: rgb(82, 107, 133);
     border-left-color: rgb(82, 107, 133);
     border-bottom-width: 3px;
-    -unity-font-definition: none;
+    -unity-font: url('project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=e2154ee0cc0dc604a8113d9dc6a5c230&type=3#NotInter-Regular');
 }
 
 .unity-list-view__item {
@@ -468,7 +468,7 @@
 
 .unity-text-field__input {
     margin-left: 2px;
-    -unity-font-definition: none;
+    -unity-font: url('project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=e2154ee0cc0dc604a8113d9dc6a5c230&type=3#NotInter-Regular');
     -unity-text-align: middle-left;
     background-color: rgb(226, 226, 238);
     border-top-left-radius: 10px;
@@ -593,13 +593,14 @@
     width: 80%;
     justify-content: center;
     align-items: center;
-    -unity-font-definition: none;
+    -unity-font: url('project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=e2154ee0cc0dc604a8113d9dc6a5c230&type=3#NotInter-Regular');
     position: absolute;
     top: 18.5%;
     color: rgb(176, 201, 241);
     -unity-font-style: bold;
     -unity-text-align: upper-center;
     font-size: 32px;
+    -unity-font: url("project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=e2154ee0cc0dc604a8113d9dc6a5c230&type=3#NotInter-Regular");
 }
 
 .Spacer {
@@ -629,7 +630,7 @@
 
 .InteractWindow {
     position: absolute;
-    -unity-font-definition: none;
+    -unity-font: url('project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=e2154ee0cc0dc604a8113d9dc6a5c230&type=3#NotInter-Regular');
     background-color: rgb(255, 255, 255);
     flex-direction: row;
     width: auto;
@@ -659,7 +660,7 @@
 
 .PopupIconAmount {
     -unity-font-style: bold;
-    -unity-font-definition: none;
+    -unity-font: url('project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=e2154ee0cc0dc604a8113d9dc6a5c230&type=3#NotInter-Regular');
     font-size: 14px;
     color: rgb(255, 255, 255);
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.6);
@@ -895,9 +896,9 @@
 }
 
 .LoadingLabel {
-    -unity-font: url("project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=e2154ee0cc0dc604a8113d9dc6a5c230&type=3#NotInter-Regular");
+    -unity-font: url('project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=e2154ee0cc0dc604a8113d9dc6a5c230&type=3#NotInter-Regular');
     position: absolute;
-    -unity-font-definition: none;
+    -unity-font: url('project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=e2154ee0cc0dc604a8113d9dc6a5c230&type=3#NotInter-Regular');
     color: rgb(127, 149, 183);
     bottom: 20%;
     width: 50%;
@@ -937,7 +938,7 @@
     max-height: 6%;
     min-height: 6%;
     width: 100%;
-    -unity-font-definition: none;
+    -unity-font: url('project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=e2154ee0cc0dc604a8113d9dc6a5c230&type=3#NotInter-Regular');
     -unity-text-align: middle-center;
     margin-left: 2px;
     margin-right: 2px;
@@ -946,7 +947,7 @@
     font-size: 18px;
     color: rgb(150, 169, 198);
     -unity-font-style: bold;
-    -unity-font: url("project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=e2154ee0cc0dc604a8113d9dc6a5c230&type=3#NotInter-Regular");
+    -unity-font: url('project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=e2154ee0cc0dc604a8113d9dc6a5c230&type=3#NotInter-Regular');
 }
 
 .DebugTitle {
@@ -955,7 +956,7 @@
     max-height: 6%;
     min-height: 6%;
     width: 100%;
-    -unity-font-definition: none;
+    -unity-font: url('project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=e2154ee0cc0dc604a8113d9dc6a5c230&type=3#NotInter-Regular');
     -unity-text-align: middle-left;
     margin-left: 4%;
     margin-right: 2px;
@@ -984,7 +985,7 @@
 
 .DamageNumber {
     -unity-font-style: bold;
-    -unity-font-definition: none;
+    -unity-font: url('project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=e2154ee0cc0dc604a8113d9dc6a5c230&type=3#NotInter-Regular');
     align-content: center;
     align-self: center;
     -unity-text-align: middle-center;
@@ -1105,7 +1106,7 @@
 }
 
 .ButtonRemapLabel {
-    -unity-font-definition: none;
+    -unity-font: url('project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=e2154ee0cc0dc604a8113d9dc6a5c230&type=3#NotInter-Regular');
     -unity-text-align: middle-center;
     font-size: 12px;
     width: 45%;
@@ -1148,19 +1149,19 @@
 }
 
 .unity-base-field {
-    -unity-font: url("project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=e2154ee0cc0dc604a8113d9dc6a5c230&type=3#NotInter-Regular");
+    -unity-font: url('project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=e2154ee0cc0dc604a8113d9dc6a5c230&type=3#NotInter-Regular');
 }
 
 .unity-text-field {
-    -unity-font: url("project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=e2154ee0cc0dc604a8113d9dc6a5c230&type=3#NotInter-Regular");
+    -unity-font: url('project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=e2154ee0cc0dc604a8113d9dc6a5c230&type=3#NotInter-Regular');
 }
 
 .unity-label {
-    -unity-font: url("project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=e2154ee0cc0dc604a8113d9dc6a5c230&type=3#NotInter-Regular");
+    -unity-font: url('project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=e2154ee0cc0dc604a8113d9dc6a5c230&type=3#NotInter-Regular');
 }
 
 .unity-text-element {
-    -unity-font: url("project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=e2154ee0cc0dc604a8113d9dc6a5c230&type=3#NotInter-Regular");
+    -unity-font: url('project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=e2154ee0cc0dc604a8113d9dc6a5c230&type=3#NotInter-Regular');
 }
 
 .unity-base-field__input {
