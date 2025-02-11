@@ -175,7 +175,9 @@ public class App : MonoBehaviour
 
         if (result.HasValue)
         {
+            previousOperation = menuCreator.m_MenuTitle.text + " =";
             numbers[0] = result.Value.ToString();
+            numbers[1] = "";
         } else
         {
             previousOperation = menuCreator.m_MenuTitle.text;
